@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excut.wrap", "excut.wrap\excut.wrap.csproj", "{EB5FDA00-2FE8-44C6-BADB-F590B7C55F30}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "excut.core", "excut.core\excut.core.fsproj", "{0A7CB74B-3E11-4688-B2B5-8E3EA7590349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5FDA00-2FE8-44C6-BADB-F590B7C55F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5FDA00-2FE8-44C6-BADB-F590B7C55F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5FDA00-2FE8-44C6-BADB-F590B7C55F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5FDA00-2FE8-44C6-BADB-F590B7C55F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7CB74B-3E11-4688-B2B5-8E3EA7590349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7CB74B-3E11-4688-B2B5-8E3EA7590349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7CB74B-3E11-4688-B2B5-8E3EA7590349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7CB74B-3E11-4688-B2B5-8E3EA7590349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DEF6DB2-2E29-443A-BE78-DEB9E5159B55}
+	EndGlobalSection
+EndGlobal
