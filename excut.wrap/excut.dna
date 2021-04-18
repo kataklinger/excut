@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DnaLibrary Name="excut.wrap Add-In" RuntimeVersion="v4.0" xmlns="http://schemas.excel-dna.net/addin/2018/05/dnalibrary">
+<DnaLibrary Name="excut Add-In" RuntimeVersion="v4.0" xmlns="http://schemas.excel-dna.net/addin/2018/05/dnalibrary">
   <ExternalLibrary Path="excut.wrap.dll" ExplicitExports="false" LoadFromBytes="true" Pack="true" IncludePdb="false" />
 
   <!--
